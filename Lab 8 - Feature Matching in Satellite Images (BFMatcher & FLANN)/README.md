@@ -17,7 +17,7 @@ Install the dependencies:
 pip install -r requirements.txt
 ```
 
-Run the experiment from the repository root:
+Run the experiment from this lab directory:
 
 ```bash
 python Lab8_temp.py
